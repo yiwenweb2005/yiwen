@@ -3,8 +3,8 @@ const FILES = [
   '/',
   '/index.html',
   '/supply.js',
-  '/icon-192.png',
-  '/icon-512.png'
+  '/icon-192.jpg',
+  '/icon-512.jpg'
 ];
 
 self.addEventListener('install', e => {
